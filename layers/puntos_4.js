@@ -1,0 +1,1 @@
+var json_puntos_4 = {"type":"FeatureCollection","name":"puntos_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nombre":"Rodrigo","edad":null,"sexo":"masculino","foto":"DCIM/JPEG_20220720_105326.jpg"},"geometry":{"type":"Point","coordinates":[-72.089010292813029,-36.606475783897913]}}]}
